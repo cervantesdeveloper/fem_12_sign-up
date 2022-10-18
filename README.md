@@ -53,8 +53,8 @@ I learned how to validate inputs and handle DOM events.
 
 ## Author
 
-- Website - [Add your name here](https://cervantesdeveloper.com/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/cervantesdeveloper)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/cervantes-developer/)
+- Website - [cervantesdeveloper.com](https://cervantesdeveloper.com/)
+- Frontend Mentor - [@cervantesdeveloper](https://www.frontendmentor.io/profile/cervantesdeveloper)
+- LinkedIn - [Cervantes Developer](https://www.linkedin.com/in/cervantes-developer/)
 
 
